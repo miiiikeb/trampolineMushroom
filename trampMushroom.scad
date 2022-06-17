@@ -6,8 +6,8 @@ radPos1 = [13.5,15,15,14];
 hPos1 = [0,1.5,4,5,5];
 ySlice = 0.15;
 
-radNeg = [6,3,3];
-hNeg = [0,3,15,15];
+radNeg = [6,6,3.1,3.1];
+hNeg = [0,1,3.9,15,15];
 
 module pos(){
     for(y = [5:ySlice:15 - ySlice]){
